@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="book-shop_main" target="11" />
+      <module name="book-shop_test" target="11" />
+      <module name="bookstoreRest-lab5_main" target="11" />
+      <module name="bookstoreRest-lab5_test" target="11" />
+      <module name="client_main" target="11" />
+      <module name="client_test" target="11" />
+      <module name="core_main" target="11" />
+      <module name="core_test" target="11" />
+      <module name="web_main" target="11" />
+      <module name="web_test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/book-shop.iml" filepath="$PROJECT_DIR$/.idea/modules/book-shop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/book-shop_main.iml" filepath="$PROJECT_DIR$/.idea/modules/book-shop_main.iml" group="book-shop" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/book-shop_test.iml" filepath="$PROJECT_DIR$/.idea/modules/book-shop_test.iml" group="book-shop" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/client/client.iml" filepath="$PROJECT_DIR$/.idea/modules/client/client.iml" group="client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/client/client_main.iml" filepath="$PROJECT_DIR$/.idea/modules/client/client_main.iml" group="client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/client/client_test.iml" filepath="$PROJECT_DIR$/.idea/modules/client/client_test.iml" group="client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/core.iml" filepath="$PROJECT_DIR$/.idea/modules/core/core.iml" group="core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/core_main.iml" filepath="$PROJECT_DIR$/.idea/modules/core/core_main.iml" group="core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/core_test.iml" filepath="$PROJECT_DIR$/.idea/modules/core/core_test.iml" group="core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web/web.iml" filepath="$PROJECT_DIR$/.idea/modules/web/web.iml" group="web" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web/web_main.iml" filepath="$PROJECT_DIR$/.idea/modules/web/web_main.iml" group="web" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web/web_test.iml" filepath="$PROJECT_DIR$/.idea/modules/web/web_test.iml" group="web" />
+    </modules>
+  </component>
+</project>

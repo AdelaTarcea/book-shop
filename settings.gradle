@@ -1,0 +1,4 @@
+rootProject.name = 'book-shop'
+include 'client'
+include 'core'
+include 'web'
